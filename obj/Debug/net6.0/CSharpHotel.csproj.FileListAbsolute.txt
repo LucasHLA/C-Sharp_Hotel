@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\bin\Debug\net6.0\CSharpHotel.exe
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\bin\Debug\net6.0\CSharpHotel.deps.json
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\bin\Debug\net6.0\CSharpHotel.runtimeconfig.json
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\bin\Debug\net6.0\CSharpHotel.dll
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\bin\Debug\net6.0\CSharpHotel.pdb
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.AssemblyInfo.cs
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.dll
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\refint\CSharpHotel.dll
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.pdb
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\CSharpHotel.genruntimeconfig.cache
+C:\Users\lukas\Desktop\C#_Projects\CSharpHotel\obj\Debug\net6.0\ref\CSharpHotel.dll
