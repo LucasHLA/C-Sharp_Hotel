@@ -26,7 +26,7 @@ in this applicaton you should be able to:
  5- Use Custom exceptions for invalid documents
  
  
- # Hot to use it/install it
+ # Hot to use / install it
  
  It is simple, you just take the project from github to you local machine and run it in aything that runs C#
  
